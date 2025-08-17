@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:22:10	7273/7273	---MCZ	403	error ('Forbidden')	text/html	date:Tue,%2012%20Aug%202025%2015:50:39%20GMT	https://demo.templatemonster.com/demo/187952.html	D:/sem6/block/demo.templatemonster.com/demo/187952.0.delayed	(from )
+21:22:11	4743/4743	---MCZ	403	error ('Forbidden')	text/html	date:Tue,%2012%20Aug%202025%2015:50:40%20GMT	https://demo.templatemonster.com/robots.txt		(from )
